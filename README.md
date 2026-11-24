@@ -60,10 +60,10 @@ The report describes the satisfaction chart as an attrition rate, but the Tablea
 </details>
 
 ## Evidence and proposed structure
-- Matching local file: `workbook/Employee-Attrition-Analysis.twbx` (packaged Tableau workbook with embedded employee-level data). It is withheld from this public repo pending public-release clearance.
-- Repo contents: `README.md`, `assets/`, and `docs/`. The packaged workbook is omitted pending public-release clearance.
+- Included Tableau workbook: `workbook/Employee-Attrition-Analysis.twbx` (packaged with de-identified employee-level records cleared for public release).
+- Repo contents: `README.md`, `assets/`, `workbook/`, and `docs/`.
 
-The report supports HR decision questions but not a formal stakeholder map or implemented retention outcome. The source contains employee-level data; publish only after public-release clearance.
+The report supports HR decision questions but does not document a formal stakeholder map or implemented retention outcome.
 
 ## Supporting documents
 
