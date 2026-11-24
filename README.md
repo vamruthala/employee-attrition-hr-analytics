@@ -5,9 +5,7 @@
 ## Executive summary
 The 1,470-employee dataset contains 237 employees marked as attrited, giving an overall attrition rate of **16.12%**. Rates vary by satisfaction, travel, and job role; use the denominator within each group when prioritizing review.
 
-![Employee Attrition Tableau dashboard from the project report](assets/dashboard-overview.png)
-
-![Overall attrition rate](assets/overall-attrition-rate.png)
+![Employee Attrition dashboard from Tableau Public](assets/dashboard-overview.png)
 
 ## Business question and pipeline
 Which workforce segments show higher attrition, and what should HR investigate about satisfaction, travel, job role, and compensation?
@@ -63,9 +61,10 @@ The report describes the satisfaction chart as an attrition rate, but the Tablea
 
 ## Evidence and proposed structure
 - Included Tableau workbook: `workbook/Employee-Attrition-Analysis.twbx` (packaged with de-identified employee-level records cleared for public release).
+- Extracted workbook source: `data/Dataset_HR_Performance.xlsx`.
 - Repo contents: `README.md`, `assets/`, `workbook/`, and `docs/`.
 
-The report supports HR decision questions but does not document a formal stakeholder map or implemented retention outcome.
+The report supports HR decision questions but not a formal stakeholder map or implemented retention outcome. The report supports HR decision questions but does not document a formal stakeholder map or implemented retention outcome.
 
 ## Supporting documents
 
@@ -74,5 +73,4 @@ The report supports HR decision questions but does not document a formal stakeho
 - [Functional requirements summary](docs/FRD-Summary.md)
 
 The source reports do not document an existing-state (As-Is) process; none is presented as fact.
-
 
