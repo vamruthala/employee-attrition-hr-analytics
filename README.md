@@ -7,6 +7,8 @@ The 1,470-employee dataset contains 237 employees marked as attrited, giving an 
 
 ![Employee Attrition Tableau dashboard from the project report](assets/dashboard-overview.png)
 
+![Overall attrition rate](assets/overall-attrition-rate.png)
+
 ## Business question and pipeline
 Which workforce segments show higher attrition, and what should HR investigate about satisfaction, travel, job role, and compensation?
 
