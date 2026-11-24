@@ -1,6 +1,6 @@
 # Executive Summary
 
-- **Need:** Identify employee groups with different historical attrition patterns.
-- **Approach:** Descriptive HR analysis by satisfaction, role, department, travel, and salary increase.
-- **Result:** Overall attrition **16.12%**; Sales Representative rate **39.76%**; frequent-travel rate **24.91%**.
-- **Value:** Helps target HR investigations; rates are associations, not forecasts or causal claims.
+- I analyzed historical attrition patterns across satisfaction, role, department, travel, and salary increase.
+- My analysis covers **1,470** employees and an overall attrition rate of **16.12%**.
+- I found a **39.76%** rate for Sales Representatives and **24.91%** for frequent travelers.
+- I use the segment rates to focus HR review; I interpret them as historical associations.
